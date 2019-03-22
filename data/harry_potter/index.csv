@@ -1,0 +1,8 @@
+﻿essay_id,topic,path,validation
+hp_1,harry potter and the philosopher's stone,../data/harry_potter/stories/hp_1.txt,
+hp_2,harry potter and the chamber of secrets,../data/harry_potter/stories/hp_2.txt,
+hp_3,harry potter and the prisoner of azkaban,../data/harry_potter/stories/hp_3.txt,
+hp_4,harry potter and the goblet of fire,../data/harry_potter/stories/hp_4.txt,
+hp_5,harry potter and the order of the phoenix,../data/harry_potter/stories/hp_5.txt,
+hp_6,harry potter and the half blood prince,../data/harry_potter/stories/hp_6.txt,
+hp_7,harry potter and the deathly hallows,../data/harry_potter/stories/hp_7.txt,../data/harry_potter/validation/hp_7.xlsx

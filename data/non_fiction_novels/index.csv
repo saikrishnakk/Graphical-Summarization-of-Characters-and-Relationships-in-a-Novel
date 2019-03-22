@@ -1,0 +1,16 @@
+﻿essay_id,topic,path,validation
+st_1,Sense and Sensibility,../data/non_fiction_novels/stories/st_1.txt,
+st_2,Wuthering Heights,../data/non_fiction_novels/stories/st_2.txt,
+st_3,Christmas Carol,../data/non_fiction_novels/stories/st_3.txt,
+st_4,Oliver Twist,../data/non_fiction_novels/stories/st_4.txt,
+st_5,King Solomon's Mines,../data/non_fiction_novels/stories/st_5.txt,
+st_6,Sons and Lovers,../data/non_fiction_novels/stories/st_6.txt,
+st_7,The Call of the Wild,../data/non_fiction_novels/stories/st_7.txt,
+st_8,Treasure Island,../data/non_fiction_novels/stories/st_8.txt,
+st_9,Adventures of Huckleberry Finn,../data/non_fiction_novels/stories/st_9.txt,
+st_10, The Adventures of Tom Sawyer,../data/non_fiction_novels/stories/st_10.txt,
+st_11,Pride and Prejudice,../data/non_fiction_novels/stories/st_11.txt,../data/non_fiction_novels/validation/st_11.xlsx
+st_12,A Modest Proposal ,../data/non_fiction_novels/stories/st_12.txt,
+st_13,"Frankenstein; Or, The Modern Prometheus",../data/non_fiction_novels/stories/st_13.txt,
+st_14,Heart of Darkness,../data/non_fiction_novels/stories/st_14.txt,
+st_15,A Tale of Two Cities,../data/non_fiction_novels/stories/st_15.txt,
